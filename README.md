@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Collegiate Programming Contest
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and Ocaml.
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
